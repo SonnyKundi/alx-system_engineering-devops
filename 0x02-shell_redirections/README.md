@@ -1,1 +1,1 @@
-Display confused smiley
+Display etc/passwd content
